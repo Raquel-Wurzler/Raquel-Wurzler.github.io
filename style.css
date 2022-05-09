@@ -1,0 +1,28 @@
+#name {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#I-am {
+    font-family: monospace;
+}
+
+body {
+    background-color: #cdd2d7;
+}
+
+.destaque {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.primeiro {
+    font-size: 25px;
+}
+
+.segundo {
+    font-size: 21px;
+}
+
+.terceiro {
+    font-size: 18px;
+}
