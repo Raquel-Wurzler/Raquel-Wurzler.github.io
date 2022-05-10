@@ -1,0 +1,60 @@
+#name {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#I-am {
+    font-family: monospace;
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+
+body {
+    background-color: #cdd2d7;
+    padding: 3%;
+}
+
+.destaque {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.primeiro {
+    font-size: 25px;
+}
+
+.segundo {
+    font-size: 21px;
+}
+
+.terceiro {
+    font-size: 18px;
+}
+
+#Foto {
+    float: left;
+    padding: 15px;
+    background-color: gray;
+}
+
+#lateral {
+    height: 300px;
+    position: relative;
+}
+
+#eu {
+    position: absolute;
+    left: 300px;
+    top: 15px;
+    font-size: 25px;
+    background-color: slategray;
+    color: darkmagenta;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+
+ul li:nth-child(odd) {
+    text-decoration: underline;
+    color: darkmagenta;
+}
